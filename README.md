@@ -1,1 +1,4 @@
 # Credit-card-Lead
+### EDA on Credit card lead dataset. (Predictive model is comming in some days.)
+Recently I had participated in JobAThon May 2021 and this was the dataset I was given. This dataset has details about customers like their Customer ID, Age, Gender, Region code, Occupation, (Aquisition) Channel code, Vintage, Credit product, Average account balance, Is (customer) active (in last 3 months) and the last column Is_Lead which tells us if its a lead or not.
+I have performed Exploratory Data Analysis and noted down the insights I got about this dataset which you'll get to see in the file named 'Credit card lead ppt' and for details about how I did it, check the file named 'Credit card lead EDA'. There is  notb I will be uploading a predictive model which can predict if a customer has potential to be a lead or not in few days.
